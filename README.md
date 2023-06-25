@@ -6,7 +6,7 @@
 ## **Introduction**
 
 **Objectives**
-- Membuat _Digital User Churn Dashboard_
+- Membuat _digital user churn dashboard_
 
 **Dataset** <br>
 Berikut ini dataset yang disediakan:
