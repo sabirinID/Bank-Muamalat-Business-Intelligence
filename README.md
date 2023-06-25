@@ -1,1 +1,1 @@
-# Bank Muamalat Business Intelligence Analyst Virtual Internship Program
+# Bank Muamalat Business Intelligence Analyst Virtual Internship
