@@ -10,6 +10,8 @@
 
 **Dataset** <br>
 Berikut ini dataset yang disediakan:
-- orders
-- product categories
-- customers
+- Customers
+- Products
+- Orders
+- ProductCategory 
+
