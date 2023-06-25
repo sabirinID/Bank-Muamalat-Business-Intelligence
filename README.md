@@ -6,7 +6,7 @@
 ## **Introduction**
 
 **Objectives**
-- Membuat _dashboard_
+- Membuat _Digital User Churn Dashboard_
 
 **Dataset** <br>
 Berikut ini dataset yang disediakan:
