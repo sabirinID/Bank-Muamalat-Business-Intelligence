@@ -6,10 +6,11 @@
 ## **Introduction**
 
 **Objectives**
-- Membuat _dashboard_
+- Membuat _digital user churn dashboard_
 
 **Dataset** <br>
 Berikut ini dataset yang disediakan:
-- orders
-- product categories
-- customers
+- Customers
+- Products
+- Orders
+- ProductCategory
